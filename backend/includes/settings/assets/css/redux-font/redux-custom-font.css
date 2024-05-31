@@ -1,0 +1,356 @@
+@font-face {
+  font-family: 'redux-icon';
+  src: url('icomoon.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+[class^="custom-"], [class*=" custom-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'redux-icon' ;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-BoldItalic.woff2') format('woff2'),
+      url('Inter-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-Bold.woff2') format('woff2'),
+      url('Inter-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-Italic.woff2') format('woff2'),
+      url('Inter-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-Light.woff2') format('woff2'),
+      url('Inter-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-MediumItalic.woff2') format('woff2'),
+      url('Inter-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-LightItalic.woff2') format('woff2'),
+      url('Inter-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-Medium.woff2') format('woff2'),
+      url('Inter-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-SemiBoldItalic.woff2') format('woff2'),
+      url('Inter-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-SemiBold.woff2') format('woff2'),
+      url('Inter-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('Inter-Regular.woff2') format('woff2'),
+      url('Inter-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.custom-notifications:before {
+  content: "\e900";
+}
+.custom-default-settings:before {
+  content: "\e950";
+}
+.custom-Restricated:before {
+  content: "\e94f";
+}
+.custom-customizer:before {
+  content: "\e94e";
+}
+.custom-social-groups:before {
+  content: "\e94d";
+}
+.custom-member-profile:before {
+  content: "\e94c";
+}
+.custom-activity:before {
+  content: "\e94b";
+}
+.custom-banner-setting:before {
+  content: "\e948";
+}
+.custom-view_sidebar:before {
+  content: "\e949";
+}
+.custom-Education:before {
+  content: "\e94a";
+}
+.custom-doc:before {
+  content: "\e946";
+}
+.custom-support:before {
+  content: "\e947";
+}
+.custom-product-settings:before {
+  content: "\e942";
+}
+.custom-product:before {
+  content: "\e943";
+}
+.custom-shop:before {
+  content: "\e944";
+}
+.custom-Woo-commerce:before {
+  content: "\e945";
+}
+.custom-remove:before {
+  content: "\e93b";
+}
+.custom-add:before {
+  content: "\e93c";
+}
+.custom-view-all:before {
+  content: "\e93d";
+}
+.custom-side-icon:before {
+  content: "\e93e";
+}
+.custom-setting:before {
+  content: "\e93f";
+}
+.custom-accounts:before {
+  content: "\e940";
+}
+.custom-user:before {
+  content: "\e941";
+}
+.custom-Episodes:before {
+  content: "\e901";
+}
+.custom-Cast-Detail:before {
+  content: "\e902";
+}
+.custom-Download:before {
+  content: "\e903";
+}
+.custom-View:before {
+  content: "\e904";
+}
+.custom-Rating:before {
+  content: "\e905";
+}
+.custom-texture:before {
+  content: "\e906";
+}
+.custom-info-1:before {
+  content: "\e907";
+}
+.custom-Comment:before {
+  content: "\e908";
+}
+.custom-Upcoming:before {
+  content: "\e909";
+}
+.custom-playlist:before {
+  content: "\e90a";
+}
+.custom-upcoming2:before {
+  content: "\e90b";
+}
+.custom-cast:before {
+  content: "\e90c";
+}
+.custom-Product:before {
+  content: "\e90d";
+}
+.custom-Related-video:before {
+  content: "\e90e";
+}
+.custom-Recommended:before {
+  content: "\e90f";
+}
+.custom-Related-Movies:before {
+  content: "\e910";
+}
+.custom-link:before {
+  content: "\e911";
+}
+.custom-check:before {
+  content: "\e929";
+}
+.custom-close:before {
+  content: "\e913";
+}
+.custom-info:before {
+  content: "\e928";
+}
+.custom-info-11:before {
+  content: "\e912";
+}
+.custom-menu-bar:before {
+  content: "\e914";
+}
+.custom-Search:before {
+  content: "\e915";
+}
+.custom-left-arrow:before {
+  content: "\e916";
+}
+.custom-right-arrow:before {
+  content: "\e917";
+}
+.custom-footer-main:before {
+  content: "\e918";
+}
+.custom-import-export:before {
+  content: "\e919";
+}
+.custom-Breadcrumb:before {
+  content: "\e91a";
+}
+.custom-Arrow-Down:before {
+  content: "\e91b";
+}
+.custom-arrow-right:before {
+  content: "\e91c";
+}
+.custom-loader:before {
+  content: "\e91d";
+}
+.custom-sun-icon:before {
+  content: "\e91e";
+}
+.custom-moon-icon:before {
+  content: "\e91f";
+}
+.custom-header-main:before {
+  content: "\e920";
+}
+.custom-height:before {
+  content: "\e921";
+}
+.custom-width-arrow:before {
+  content: "\e922";
+}
+.custom-down-arrow:before {
+  content: "\e923";
+}
+.custom-up-arrow:before {
+  content: "\e924";
+}
+.custom-Footer-Options:before {
+  content: "\e925";
+}
+.custom-404:before {
+  content: "\e926";
+}
+.custom-Blog:before {
+  content: "\e927";
+}
+.custom-Branding:before {
+  content: "\e92a";
+}
+.custom-Code:before {
+  content: "\e92b";
+}
+.custom-Colors:before {
+  content: "\e92c";
+}
+.custom-CopyRight:before {
+  content: "\e92d";
+}
+.custom-Dashboard:before {
+  content: "\e92e";
+}
+.custom-Demo-Import:before {
+  content: "\e92f";
+}
+.custom-Footer-Layout:before {
+  content: "\e930";
+}
+.custom-Footer-Opti:before {
+  content: "\e931";
+}
+.custom-General-Blog:before {
+  content: "\e932";
+}
+.custom-General:before {
+  content: "\e933";
+}
+.custom-Header-layout:before {
+  content: "\e934";
+}
+.custom-Information:before {
+  content: "\e935";
+}
+.custom-Page-Setting:before {
+  content: "\e936";
+}
+.custom-Setting:before {
+  content: "\e937";
+}
+.custom-Single-Blog:before {
+  content: "\e938";
+}
+.custom-Social-Media:before {
+  content: "\e939";
+}
+.custom-Sticky-Header:before {
+  content: "\e93a";
+}
+.custom-Typography:before {
+  content: "\e951";
+}

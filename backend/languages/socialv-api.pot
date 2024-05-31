@@ -1,0 +1,663 @@
+# Copyright (C) 2024 Iqonic Design
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: socialv-api 7.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/socialv-api\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-19T09:45:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: socialv-api\n"
+
+#. Plugin Name of the plugin
+msgid "socialv-api"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://iqonic.design"
+msgstr ""
+
+#. Description of the plugin
+msgid "Socialv api mobile plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Iqonic Design"
+msgstr ""
+
+#: includes/baseClasses/SVCustomNotifications.php:600
+msgid "reacted: %s to your message."
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:15
+#: includes/baseClasses/SVNotifications.php:63
+msgid "Mentions Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:19
+msgid "Join Group Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:23
+msgid "Group information Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:27
+msgid "Group Membership Request Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:31
+msgid "Group Invitations Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:35
+msgid "Group Admin Promotion Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:39
+msgid "Reaction Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:39
+msgid "Like Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:43
+msgid "Share on activity Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:47
+msgid "Comment on activity Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:51
+msgid "Replies Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:55
+msgid "Friendship Requested Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:59
+msgid "Friendship Accepted Notifications"
+msgstr ""
+
+#: includes/baseClasses/SVNotifications.php:67
+msgid "Forum Notifications"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:92
+msgid "Password has been changed successfully"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:95
+msgid "Old password is invalid"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:114
+msgid "New Password"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:116
+msgid "Hello,"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:117
+msgid "Your recently requested to reset your password. Here is the new password for your App"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:119
+msgid "Thanks,"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:127
+#: includes/controllers/api/SVSocialController.php:131
+msgid "Password has been sent successfully to your email address."
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:134
+msgid "Email not sent"
+msgstr ""
+
+#: includes/controllers/api/SVSocialController.php:138
+msgid "User not found with this email address"
+msgstr ""
+
+#: includes/settings/fields/dimensions/class-redux-dimensions.php:149
+msgid "Width"
+msgstr ""
+
+#: includes/settings/fields/dimensions/class-redux-dimensions.php:181
+msgid "Height"
+msgstr ""
+
+#: includes/settings/fields/dimensions/class-redux-dimensions.php:203
+#: includes/settings/fields/dimensions/class-redux-dimensions.php:211
+#: includes/settings/fields/dimensions/class-redux-dimensions.php:213
+#: includes/settings/fields/spacing/class-redux-spacing.php:294
+#: includes/settings/fields/spacing/class-redux-spacing.php:298
+msgid "Units"
+msgstr ""
+
+#: includes/settings/fields/media/class-redux-media.php:92
+msgid "No media selected"
+msgstr ""
+
+#: includes/settings/fields/media/class-redux-media.php:253
+msgid "Upload or browse a file"
+msgstr ""
+
+#: includes/settings/fields/spacing/class-redux-spacing.php:165
+msgid "All"
+msgstr ""
+
+#: includes/settings/fields/spacing/class-redux-spacing.php:223
+msgid "Top"
+msgstr ""
+
+#: includes/settings/fields/spacing/class-redux-spacing.php:242
+msgid "Bottom"
+msgstr ""
+
+#: includes/settings/fields/spacing/class-redux-spacing.php:261
+msgid "Right"
+msgstr ""
+
+#: includes/settings/fields/spacing/class-redux-spacing.php:280
+msgid "Left"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:25
+msgid "Acount Verification"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:30
+msgid "If account verification is enabled, every new user will be required to verify their email account in order to use the app."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:36
+msgid "Friends only activity"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:42
+msgid "By enabling it logged-in user can see their friends activity only."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:50
+msgid "Select this option to dispaly blog posts in feed."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:51
+msgid "Activity Blog Posts"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:59
+#: includes/settings/Options/SVMemberProfile.php:93
+msgid "Disabled Options"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:62
+#: includes/settings/Options/SVMemberProfile.php:96
+msgid "Disabled options can be manageable from theme options now."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:72
+msgid "GIPHY Key"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:73
+msgid "Add GIPHY Key here."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:78
+msgid "Add GIPHY Key here for iOS."
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:88
+msgid "BuddyPress"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:95
+msgid "Activity Feeds"
+msgstr ""
+
+#: includes/settings/Options/SVBuddyPress.php:98
+msgid "Manage settings related BuddyPress activity feeds"
+msgstr ""
+
+#: includes/settings/Options/SVFireBaseNotification.php:26
+msgid "Firebase"
+msgstr ""
+
+#: includes/settings/Options/SVFireBaseNotification.php:29
+msgid "Manage settings related firebase Push Notifications"
+msgstr ""
+
+#: includes/settings/Options/SVFireBaseNotification.php:35
+msgid "App Id"
+msgstr ""
+
+#: includes/settings/Options/SVFireBaseNotification.php:36
+msgid "Add FireBase app id here."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:25
+msgid "AdMob"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:30
+msgid "Disable / Enable Ads for App."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:36
+msgid "Blog"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:41
+msgid "Disable / Enable Blogs for App only."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:47
+msgid "Forums"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:52
+msgid "Disable / Enable Forums for App only."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:58
+msgid "Social Login"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:63
+msgid "Disable / Enable Social Login for App only."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:69
+msgid "GamiPress"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:74
+msgid "Disable / Enable GamiPress for App only."
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:85
+msgid "General"
+msgstr ""
+
+#: includes/settings/Options/SVGeneral.php:88
+msgid "Manage General settings"
+msgstr ""
+
+#: includes/settings/Options/SVLearnPress.php:25
+#: includes/settings/Options/SVLearnPress.php:41
+msgid "LearnPress"
+msgstr ""
+
+#: includes/settings/Options/SVLearnPress.php:30
+msgid "Disable / Enable LearnPress for App only."
+msgstr ""
+
+#: includes/settings/Options/SVLearnPress.php:44
+msgid "Manage LearnPress settings"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:27
+#: utils/sv-helpers.php:457
+msgid "SocialV User"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:28
+msgid "Default user display name"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:29
+msgid "If the user's display name is empty, the entered name will be displayed. If you don't need a default user display name, you can simply leave the field empty.."
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:43
+msgid "Display posts count"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:44
+msgid "Enable to display posts count in profile."
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:47
+#: includes/settings/Options/SVMemberProfile.php:59
+#: includes/settings/Options/SVMemberProfile.php:71
+#: includes/settings/Options/SVMemberProfile.php:83
+msgid "Disable"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:48
+#: includes/settings/Options/SVMemberProfile.php:60
+#: includes/settings/Options/SVMemberProfile.php:72
+#: includes/settings/Options/SVMemberProfile.php:84
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:55
+msgid "Display comment count"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:56
+msgid "Enable to display comment count in profile."
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:67
+msgid "Display profile views"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:68
+msgid "Enable to display profile views."
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:79
+msgid "Request Button"
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:81
+msgid "Enable to friend request button."
+msgstr ""
+
+#: includes/settings/Options/SVMemberProfile.php:106
+msgid "Member Profile"
+msgstr ""
+
+#: includes/settings/Options/SVMembership.php:22
+msgid "Membership"
+msgstr ""
+
+#: includes/settings/Options/SVMembership.php:27
+msgid "Disable / Enable Paid Membership Pro for App."
+msgstr ""
+
+#: includes/settings/Options/SVNotificationsSettings.php:44
+msgid "Notifications"
+msgstr ""
+
+#: includes/settings/Options/SVNotificationsSettings.php:47
+msgid "Manage notifications settings"
+msgstr ""
+
+#: includes/settings/Options/SVWooCommerce.php:25
+msgid "Woocommerce Shop"
+msgstr ""
+
+#: includes/settings/Options/SVWooCommerce.php:30
+msgid "Disble / Enable shop for app users."
+msgstr ""
+
+#: includes/settings/Options/SVWooCommerce.php:41
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/settings/Options/SVWooCommerce.php:44
+msgid "Woocommerece settings"
+msgstr ""
+
+#: includes/settings/SVSettings.php:177
+#: includes/settings/SVSettings.php:178
+msgid "App Configuration"
+msgstr ""
+
+#: includes/settings/templates/panel/footer.tpl.php:59
+#: includes/settings/templates/panel/header.tpl.php:77
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings/templates/panel/footer.tpl.php:63
+msgid "Reset Section"
+msgstr ""
+
+#: includes/settings/templates/panel/footer.tpl.php:64
+msgid "Reset All"
+msgstr ""
+
+#: includes/settings/templates/panel/footer.tpl.php:68
+#: includes/settings/templates/panel/header.tpl.php:81
+msgid "Working..."
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:12
+#: includes/settings/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:35
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:37
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:61
+msgid "Expand"
+msgstr ""
+
+#: includes/settings/templates/panel/header.tpl.php:66
+msgid "search"
+msgstr ""
+
+#: utils/sv-bbm-helper.php:60
+msgid "Active %s ago"
+msgstr ""
+
+#: utils/sv-helpers.php:36
+msgid " field is required"
+msgstr ""
+
+#: utils/sv-helpers.php:37
+msgid " has invalid email address"
+msgstr ""
+
+#: utils/sv-helpers.php:1076
+msgid "User shared activity"
+msgstr ""
+
+#: utils/sv-helpers.php:1078
+msgid "Activity Shared"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:22
+msgid "Invalid action."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:29
+msgid "Please provide a valid url."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:49
+msgid "Sorry, the functionality is disabled temporarily."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:59
+msgid "Sorry, can not add the url."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:65
+msgid "This type is not supported."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:107
+#: utils/sv-mediapress-helpers.php:475
+msgid "The gallery is not selected."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:122
+#: utils/sv-mediapress-helpers.php:491
+msgid "There was a problem with the privacy of your gallery."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:134
+msgid "This type is not allowed in current gallery. Only %s is allowed!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:155
+msgid "You don't have sufficient permissions."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:175
+#: utils/sv-mediapress-helpers.php:545
+msgid "There was a problem with the privacy."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:229
+msgid "There was a problem. Please try again."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:358
+#: utils/sv-mediapress-helpers.php:424
+msgid "Server can not handle this much amount of data. Please upload a smaller file or ask your server administrator to change the settings."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:364
+#: utils/sv-mediapress-helpers.php:432
+msgid "Unable to upload. You have used the allowed storage quota!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:414
+msgid "Sorry, the upload functionality is disabled temporarily."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:454
+msgid "This file type is not supported."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:503
+msgid "This file type is not allowed in current gallery. Only <strong>%s</strong> files are allowed!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:524
+msgid "You don't have sufficient permissions to upload."
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:598
+#: utils/sv-mediapress-helpers.php:610
+msgid "Error in upload"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:634
+msgid "Component undefined"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:642
+msgid "You don't have permission to create gallery!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:652
+msgid "Invalid gallery status!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:655
+msgid "Invalid gallery type!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:659
+msgid "Invalid action!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:662
+msgid "Title can not be empty"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:679
+msgid "Unable to create gallery!"
+msgstr ""
+
+#: utils/sv-mediapress-helpers.php:683
+msgid "Gallery created successfully!"
+msgstr ""
+
+#: utils/sv-member-helpers.php:58
+msgid "Already verified!"
+msgstr ""
+
+#: utils/sv-member-helpers.php:61
+msgid "Already sent!"
+msgstr ""
+
+#: utils/sv-member-helpers.php:83
+msgid "Request Sent!"
+msgstr ""
+
+#: utils/sv-member-helpers.php:106
+msgid "Account Privacy"
+msgstr ""
+
+#: utils/sv-member-helpers.php:111
+msgid "Public"
+msgstr ""
+
+#: utils/sv-member-helpers.php:112
+msgid "Private"
+msgstr ""
+
+#: utils/sv-story-helpers.php:19
+msgid "File type not allowed"
+msgstr ""
+
+#: utils/sv-story-helpers.php:81
+#: utils/sv-story-helpers.php:173
+msgid "one of the required field is empty"
+msgstr ""
+
+#. translators: %1$s: story limit %2$s: story count
+#: utils/sv-story-helpers.php:93
+#: utils/sv-story-helpers.php:187
+msgid "You can publish only %1$s story! Currently story count is %2$s."
+msgid_plural "You can publish only %1$s stories! Currently story count is %2$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: utils/sv-story-helpers.php:154
+#: utils/sv-story-helpers.php:331
+msgid "Story published!"
+msgstr ""
+
+#: utils/sv-story-helpers.php:157
+#: utils/sv-story-helpers.php:334
+msgid "Your story sent for review!"
+msgstr ""
+
+#: utils/sv-story-helpers.php:164
+msgid "Error! Something went wrong."
+msgstr ""
+
+#. translators: %s: story item limit
+#: utils/sv-story-helpers.php:209
+#: utils/sv-story-helpers.php:235
+msgid "You can create only %s item per story!"
+msgid_plural "You can create only %s items per story!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: utils/sv-story-helpers.php:279
+#: utils/sv-story-helpers.php:320
+msgid "Story can not be published. Try again later."
+msgstr ""
+
+#: utils/sv-woo-helpers.php:90
+#: utils/sv-woo-helpers.php:91
+msgid "Placeholder"
+msgstr ""
